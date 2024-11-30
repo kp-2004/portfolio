@@ -1,0 +1,33 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 50px 70px;
+    position: sticky;
+}
+.nav-menu{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 60px;
+    font-size: 20px;
+    cursor: pointer
+}
+.nav-menu li:hover{
+    padding: 15px 30px;
+    border-radius: 50px;
+    background: linear-gradient(267deg, #da7c25, #b923e1);
+    
+    cursor: pointer;
+}
+
+.nav-connect{
+    padding: 20px 40px;
+    border-radius: 50px;
+    background: linear-gradient(267deg, #da7c25, #b923e1);
+    font-size: 22px;
+    cursor: pointer;
+}
+.nav-connect:hover{
+    transform: scale(1.05);
+}
