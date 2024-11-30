@@ -5,7 +5,6 @@
     justify-content: center;
     gap: 80px;
     margin: 80px 170px;
-
 }
 .contact-title{
     position: relative;
@@ -14,7 +13,6 @@
     padding: 0px 30px;
     font-size: 40px;
     font-weight: 600;
-
 }
 .contact-title h1:hover{
     color: #df8908;
